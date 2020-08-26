@@ -1,0 +1,6 @@
+In revision control systems, a repository[1] is a data structure that stores metadata for a set of files or directory structure. Depending on whether the version control system in use is distributed (for instance, Git or Mercurial) or centralized (Subversion or Perforce, for example), the whole set of information in the repository may be duplicated on every user's system or may be maintained on a single server.[2] Some of the metadata that a repository contains includes, among other things:
+
+A historical record of changes in the repository.
+A set of commit objects.
+A set of references to commit objects, called heads.
+Storing changes
